@@ -1,0 +1,147 @@
+SuccessScreen As screen:
+    Fill: =White
+    LoadingSpinnerColor: =RGBA(100, 118, 132, 1)
+
+    RectQuickActionBar4_1 As rectangle:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Fill: =Rectangle5 
+        Height: =88
+        Width: =Parent.Width
+        ZIndex: =4
+
+    LblAppName4_1 As label:
+        Align: =Align.Center
+        Color: =RGBA(32, 54, 71, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        Height: =88
+        Size: =35
+        Text: ="Success!"
+        Width: =640
+        Y: =590
+        ZIndex: =5
+
+    Icon1 As icon.CheckBadge:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Color: =RGBA(187, 221, 140, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
+        Height: =100
+        Icon: =Icon.CheckBadge
+        Width: =100
+        X: =270
+        Y: =490
+        ZIndex: =6
+
+    Button1 As button:
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        Fill: =RGBA(0, 0, 0, 0)
+        FontWeight: =FontWeight.Semibold
+        Height: =960
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =Transparent
+        OnSelect: =Navigate(HomeScreenVersion2)
+        PressedFill: =Transparent 
+        Size: =24
+        Text: =""
+        Width: =640
+        Y: =88
+        ZIndex: =7
+
+    RectQuickActionBar1_7 As rectangle:
+        BorderColor: =RGBA(32, 54, 71, 1)
+        Fill: =Rectangle5.Fill
+        Height: =88
+        Width: =Parent.Width
+        Y: =1048
+        ZIndex: =8
+
+    Container1_6 As groupContainer.horizontalAutoLayoutContainer:
+        Height: =88
+        LayoutAlignItems: =LayoutAlignItems.End
+        LayoutJustifyContent: =LayoutJustifyContent.SpaceBetween
+        LayoutMode: =LayoutMode.Auto
+        PaddingLeft: =15
+        PaddingRight: =15
+        PaddingTop: =10
+        Width: =640
+        Y: =1048
+        ZIndex: =9
+
+        Icon7_6 As icon.Information:
+            BorderColor: =RGBA(32, 54, 71, 1)
+            Color: =Rectangle5_1
+            DisabledBorderColor: =RGBA(166, 166, 166, 1)
+            DisabledColor: =RGBA(244, 244, 244, 1)
+            Height: =88
+            Icon: =Icon.Home
+            OnSelect: =Navigate(HomeScreenVersion2)    
+            PaddingBottom: =20
+            PaddingLeft: =20
+            PaddingRight: =20
+            PaddingTop: =20
+            Width: =88
+            ZIndex: =1
+
+        Icon4_8 As icon.Add:
+            BorderColor: =RGBA(32, 54, 71, 1)
+            Color: =Rectangle5_1
+            DisabledBorderColor: =RGBA(166, 166, 166, 1)
+            DisabledColor: =RGBA(244, 244, 244, 1)
+            Height: =88
+            Icon: =Icon.Add
+            OnSelect: =NewForm(EditForm1); Navigate(NewFormScreen, None )
+            PaddingBottom: =20
+            PaddingLeft: =20
+            PaddingRight: =20
+            PaddingTop: =20
+            Width: =88
+            ZIndex: =2
+
+        Icon8_6 As icon.People:
+            BorderColor: =RGBA(32, 54, 71, 1)
+            Color: =Rectangle5_1
+            DisabledBorderColor: =RGBA(166, 166, 166, 1)
+            DisabledColor: =RGBA(244, 244, 244, 1)
+            Height: =88
+            Icon: =Icon.Key
+            OnSelect: =If(UserName = "Marina Selma" || UserName = "Guillermo Garcia" || UserName = "EllyVan Derhout", Navigate(AdminScreen), false)
+            PaddingBottom: =20
+            PaddingLeft: =20
+            PaddingRight: =20
+            PaddingTop: =20
+            Width: =88
+            ZIndex: =3
+
+        Icon9_6 As icon.ComputerDesktop:
+            BorderColor: =RGBA(32, 54, 71, 1)
+            Color: =Rectangle5_1
+            DisabledBorderColor: =RGBA(166, 166, 166, 1)
+            DisabledColor: =RGBA(244, 244, 244, 1)
+            Height: =88
+            Icon: =Icon9_1.Icon
+            OnSelect: |-
+                =Launch("https://datastudio.google.com/s/jDs2aePneNg") 
+            PaddingBottom: =20
+            PaddingLeft: =20
+            PaddingRight: =20
+            PaddingTop: =20
+            Width: =88
+            ZIndex: =4
+
+        Icon9_11 As icon.ComputerDesktop:
+            BorderColor: =RGBA(32, 54, 71, 1)
+            Color: =Rectangle5_1
+            DisabledBorderColor: =RGBA(166, 166, 166, 1)
+            DisabledColor: =RGBA(244, 244, 244, 1)
+            Height: =88
+            Icon: =Icon.Settings
+            OnSelect: =Navigate(SettingsScreen)
+            PaddingBottom: =20
+            PaddingLeft: =20
+            PaddingRight: =20
+            PaddingTop: =20
+            Width: =88
+            ZIndex: =5
+

@@ -1,0 +1,94 @@
+{
+  "0d680aca-3818-4ac0-ab70-f16beabb30fa": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "Office 365 Outlook",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1617/1.0.1617.3171/office365/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_office365",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {},
+    "dataSources": [
+      "Office365Outlook"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "0d680aca-3818-4ac0-ab70-f16beabb30fa"
+  },
+  "28dec7cc-43bc-4d61-9098-087297bc5c69": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "Google Sheets",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1617/1.0.1617.3171/googlesheet/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_googlesheet",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "1RgeefLhu82RqenyYDVy176GlzkpBK8x-PcoEi59oHAE": {
+        "dataSources": {
+          "Sheet1": {
+            "tableName": "0"
+          },
+          "Sheet10": {
+            "tableName": "983476759"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Sheet1",
+      "Sheet10"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "28dec7cc-43bc-4d61-9098-087297bc5c69"
+  },
+  "82692ed5-59e2-46d4-916c-11e3fa7d14c7": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "Microsoft Teams",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1612/1.0.1612.3109/teams/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_teams",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {},
+    "dataSources": [
+      "MicrosoftTeams"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "82692ed5-59e2-46d4-916c-11e3fa7d14c7"
+  },
+  "de8fc37a-bc5a-43ae-852b-8a311abc45bc": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "Office 365 Users",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1611/1.0.1611.3104/office365users/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_office365users",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {},
+    "dataSources": [
+      "Office365Users"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "de8fc37a-bc5a-43ae-852b-8a311abc45bc"
+  }
+}

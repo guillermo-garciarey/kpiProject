@@ -1,0 +1,7 @@
+{
+  "DataEntityMetadataJson": {
+    "983476759": "{\"name\":\"983476759\",\"title\":\"Sheet10\",\"x-ms-permission\":\"read-write\",\"schema\":{\"type\":\"array\",\"items\":{\"type\":\"object\",\"properties\":{\"Agent\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"x-ms-summary\":\"Agent\"},\"Language\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"x-ms-summary\":\"Language\"},\"TL\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"x-ms-summary\":\"TL\"},\"__PowerAppsId__\":{\"type\":\"string\",\"x-ms-keyOrder\":1,\"x-ms-keyType\":\"primary\",\"x-ms-sort\":\"none\",\"x-ms-summary\":\"__PowerAppsId__\",\"x-ms-permission\":\"read-only\"},\"Hours\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"x-ms-summary\":\"Hours\"},\"Banner\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"x-ms-summary\":\"Banner\"},\"Icon\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"x-ms-summary\":\"Icon\"},\"Calendar\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"x-ms-summary\":\"Calendar\"}}}}}"
+  },
+  "EntityName": "Sheet10",
+  "TableName": "983476759"
+}

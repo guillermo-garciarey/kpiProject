@@ -1,0 +1,13 @@
+App As appinfo:
+    BackEnabled: =false
+    OnStart: |
+        =
+        Set(UserName, User().FullName);
+        Set(varBanner, LookUp(Sheet10, Agent = UserName, Banner));
+        Set(varIcon, LookUp(Sheet10, Agent = UserName, Icon));
+        Set(varCalendar, LookUp(Sheet10, Agent = UserName, Calendar));
+        //Set(varData, First(colData));
+        //Set(colData, Collect(Sheet10, {Agent: "Agent", Hours: "Hours", TL: "TL", Language: "Language"}))
+        Set(varTeam, LookUp(Sheet10, Agent = UserName, TL));
+    StartScreen: =
+
