@@ -30,9 +30,15 @@ New record creation screen
 Google Looker Studio dashboard 
 >Users can launch a Google Looker Studio dashboard from the app in their browser. This enhances the user experience by providing visual renditions of the collected data, improving transparency and efficiency in the workplace
 
-## How to use
+## Screenshots
 
-(Under construction)
+### Landing Page ![Screenshot1](https://user-images.githubusercontent.com/125451487/221929969-b59f4726-be8b-4d1c-8c13-18d5645ff527.jpeg)
+
+### New Record Page ![Screenshot2](https://user-images.githubusercontent.com/125451487/221930641-f0faceb3-f9b4-4ae0-abc7-68e2a3cfe0f9.jpeg)
+
+### Settings Page ![Screenshot3](https://user-images.githubusercontent.com/125451487/221931212-938124f4-3828-41ce-a5bd-d349a3352307.jpeg)
+
+### Edit Page ![Screenshot4](https://user-images.githubusercontent.com/125451487/221931432-183dbd61-afae-4645-a2a2-54ae7dd1a3c7.jpeg)
 
 ## Limitations
 
