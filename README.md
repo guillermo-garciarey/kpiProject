@@ -32,16 +32,29 @@ Google Looker Studio dashboard
 
 ## Screenshots
 
-### Landing Page ![Screenshot1](https://user-images.githubusercontent.com/125451487/221929969-b59f4726-be8b-4d1c-8c13-18d5645ff527.jpeg)
 
-### New Record Page ![Screenshot2](https://user-images.githubusercontent.com/125451487/221930641-f0faceb3-f9b4-4ae0-abc7-68e2a3cfe0f9.jpeg)
+### Landing Page 
 
-### Settings Page ![Screenshot3](https://user-images.githubusercontent.com/125451487/221931212-938124f4-3828-41ce-a5bd-d349a3352307.jpeg)
+> <img src="https://user-images.githubusercontent.com/125451487/221929969-b59f4726-be8b-4d1c-8c13-18d5645ff527.jpeg" width=25% height=25%>
 
-### Edit Page ![Screenshot4](https://user-images.githubusercontent.com/125451487/221931432-183dbd61-afae-4645-a2a2-54ae7dd1a3c7.jpeg)
+
+### New Record Page 
+
+> <img src="https://user-images.githubusercontent.com/125451487/221930641-f0faceb3-f9b4-4ae0-abc7-68e2a3cfe0f9.jpeg" width=25% height=25%>
+
+### Settings Page 
+
+> <img src="https://user-images.githubusercontent.com/125451487/221931212-938124f4-3828-41ce-a5bd-d349a3352307.jpeg" width=25% height=25%>
+
+### Edit Page 
+
+> <img src="https://user-images.githubusercontent.com/125451487/221931432-183dbd61-afae-4645-a2a2-54ae7dd1a3c7.jpeg" width=25% height=25%>
+
 
 ## Limitations
 
-**Google Sheets row limit and filter functions:**  Since the app uses filter functions and Google Sheets does not support delegation, only the first 2000 rows of data can be used for storage. Once this limit is reached, a new worksheet must be added to the file and connections made within the app to continue recording data on the new sheet. This means that users should monitor the amount of data being entered to ensure that the 2000 row limit is not exceeded, and take action to add new worksheets as needed to continue recording data.
+**Google Sheets row limit and filter functions:**  
+> Since the app uses filter functions and Google Sheets does not support delegation, only the first 2000 rows of data can be used for storage. Once this limit is reached, a new worksheet must be added to the file and connections made within the app to continue recording data on the new sheet. This means that users should monitor the amount of data being entered to ensure that the 2000 row limit is not exceeded, and take action to add new worksheets as needed to continue recording data.
 
-**Google Looker Studio connections:** When a new sheet is added to the Google Sheets file, connections must be set up in Google Looker Studio to ensure that the data being visualised is accurate and up-to-date. This may require modifications to the existing dashboard to ensure that it is pulling data from the correct source. Users should be aware of this process and work closely with the Looker Studio team to ensure that connections are established properly and that data visualisations remain accurate and informative.
+**Google Looker Studio connections:** 
+> When a new sheet is added to the Google Sheets file, connections must be set up in Google Looker Studio to ensure that the data being visualised is accurate and up-to-date. This may require modifications to the existing dashboard to ensure that it is pulling data from the correct source. Users should be aware of this process and work closely with the Looker Studio team to ensure that connections are established properly and that data visualisations remain accurate and informative.
