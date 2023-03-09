@@ -1,4 +1,4 @@
-# KPI Tracker  Project
+# KPI and Quality Analytics Dashboard
 
 ## Project Scope
 
