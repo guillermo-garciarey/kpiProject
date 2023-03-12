@@ -30,7 +30,7 @@ The app includes a new record creation screen that provides users with the abili
 > <img src="https://user-images.githubusercontent.com/125451487/221930641-f0faceb3-f9b4-4ae0-abc7-68e2a3cfe0f9.jpeg" width=25% height=25%>
 
 ### Record modification
-Users are able to modify their own records in case of a mistake or to update their working hours, PTO requests, bank holiday hours, overtime hours, and miscellaneous comments.
+Users are able to modify their own records. Whether fixing mistakes or to update their working hours, PTO requests, bank holiday hours, overtime hours, or comments.
 
 > <img src="https://user-images.githubusercontent.com/125451487/221931432-183dbd61-afae-4645-a2a2-54ae7dd1a3c7.jpeg" width=25% height=25%>
 
@@ -40,7 +40,7 @@ Users are able to edit their profiles to default to a number of options to enhan
 > <img src="https://user-images.githubusercontent.com/125451487/221931212-938124f4-3828-41ce-a5bd-d349a3352307.jpeg" width=25% height=25%>
 
 ### Google Looker Studio dashboard 
->Users can launch a Google Looker Studio dashboard from the app in their browser. This enhances the user experience by providing visual renditions of the collected data, improving transparency and efficiency in the workplace
+Users can launch a Google Looker Studio dashboard from the app in their browser. This enhances the user experience by providing visual renditions of the collected data, improving transparency and efficiency in the workplace
 
 
 ## Data
