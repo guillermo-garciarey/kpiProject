@@ -1,8 +1,26 @@
 # KPI and Quality Analytics Dashboard
 
+ 
+ 
+## Table of Contents
+
+ ### [1. Tools](https://github.com/guillermo-garciarey/powerapps/main/README.md#1-tools)
+ ### [2. Project Scope](https://github.com/guillermo-garciarey/powerapps/main/README.md#2-project-scope)
+ ### [3. Features](https://github.com/guillermo-garciarey/powerapps/main/README.md#3-features)
+ ### [4. Google Looker Studio Dashboard](https://github.com/guillermo-garciarey/powerapps/main/README.md#4-google-looker-studio-dashboard)
+ ### [5. Data](https://github.com/guillermo-garciarey/powerapps/main/README.md#5-data)
+ ### [6. Limitations](https://github.com/guillermo-garciarey/powerapps/main/README.md#6-limitations)
+ 
+ 
+## 1. Tools 
 
 
-## 1. Project Scope
+ <img src="https://user-images.githubusercontent.com/125451487/224790634-be0d6f82-232d-42b5-bf6e-e8b7c997cd4f.png" width=50% height=50%>
+ 
+ #### SQL | Google Looker Studio | Microsoft Power Apps.  
+   
+     
+## 2. Project Scope
 
 
 The purpose of this project was to address the lack of key performance indicator (KPI) visibility for coworkers, and to increase the efficiency and ease of use of the data entry process. 
@@ -20,7 +38,7 @@ This project aimed to provide a user-friendly interface for data entry and real-
 
 
 
-## 2. Features
+## 3. Features
 
 
 
@@ -48,7 +66,7 @@ Users are able to edit their profiles to default to a number of options to enhan
 > <img src="https://user-images.githubusercontent.com/125451487/221931212-938124f4-3828-41ce-a5bd-d349a3352307.jpeg" width=25% height=25%>
 
 
-### Google Looker Studio dashboard 
+## 4. Google Looker Studio Dashboard 
 Users can launch a Google Looker Studio dashboard from the app in their browser. This enhances the user experience by providing visual renditions of the collected data, improving transparency and efficiency in the workplace.
 
 
@@ -70,7 +88,7 @@ Team Leads can break down QA data into specific sections and identify trends and
 
 
 
-## 3. Data
+## 5. Data
 
 
 
@@ -99,7 +117,7 @@ QA Data ready to be utilized in Google Looker Studio.
 > <img src="https://user-images.githubusercontent.com/125451487/224746449-a938c13c-9969-482d-8a73-f24ffce832bc.png" width=40% height=40%>
 
 
-## 4. Limitations
+## 6. Limitations
 
 
 
