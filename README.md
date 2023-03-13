@@ -4,12 +4,12 @@
  
 ## Table of Contents
 
- ### [1. Tools](https://github.com/guillermo-garciarey/powerapps/main/README.md#1-tools)
- ### [2. Project Scope](https://github.com/guillermo-garciarey/powerapps/main/README.md#2-project-scope)
- ### [3. Features](https://github.com/guillermo-garciarey/powerapps/main/README.md#3-features)
- ### [4. Google Looker Studio Dashboard](https://github.com/guillermo-garciarey/powerapps/main/README.md#4-google-looker-studio-dashboard)
- ### [5. Data](https://github.com/guillermo-garciarey/powerapps/main/README.md#5-data)
- ### [6. Limitations](https://github.com/guillermo-garciarey/powerapps/main/README.md#6-limitations)
+ ### [1. Tools](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#1-tools-1)
+ ### [2. Project Scope](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#2-project-scope)
+ ### [3. Features](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#3-features)
+ ### [4. Google Looker Studio Dashboard](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#4-google-looker-studio-dashboard)
+ ### [5. Data](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#5-data)
+ ### [6. Limitations](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#6-limitations)
  
  
 ## 1. Tools 
