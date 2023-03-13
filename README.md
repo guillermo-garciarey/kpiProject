@@ -4,12 +4,12 @@
  
 ## Table of Contents
 
- ### [1. Tools](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#1-tools-1)
- ### [2. Project Scope](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#2-project-scope-1)
- ### [3. Features](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#3-features-1)
- ### [4. Google Looker Studio Dashboard](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#4-google-looker-studio-dashboard-1)
- ### [5. Data](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#5-data-1)
- ### [6. Limitations](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#6-limitations-1)
+  **[1. Tools](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#1-tools-1)**<br>
+  **[2. Project Scope](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#2-project-scope-1)**<br>
+  **[3. Features](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#3-features-1)**<br>
+  **[4. Google Looker Studio Dashboard](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#4-google-looker-studio-dashboard-1)**<br>
+  **[5. Data](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#5-data-1)**<br>
+  **[6. Limitations](https://github.com/guillermo-garciarey/powerapps/blob/main/README.md#6-limitations-1)**<br>
  
  
 ## 1. Tools 
@@ -17,7 +17,7 @@
 
  <img src="https://user-images.githubusercontent.com/125451487/224790634-be0d6f82-232d-42b5-bf6e-e8b7c997cd4f.png" width=50% height=50%>
  
- #### SQL | Google Looker Studio | Microsoft Power Apps.  
+  **SQL   |   Google Looker Studio   |   Microsoft Power Apps.**  
    
      
 ## 2. Project Scope
