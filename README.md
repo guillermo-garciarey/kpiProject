@@ -105,7 +105,7 @@ Raw scores are received in the following format. While the following screenshots
 
 > <img src="https://user-images.githubusercontent.com/125451487/224743855-7d2b09c4-8e6f-4738-b9f5-f4468e1dccc8.png" width=100% height=100%>
 
-Excel is used to do an automated initial clean of the raw scores following grid ready to be transformed with SQL.
+Excel is used to do an automated initial clean of the raw scores, with the following grid ready to be transformed with SQL.
 
 > <img src="https://user-images.githubusercontent.com/125451487/224745545-7ac9047a-d759-402c-80a5-5586167b2d42.png" width=100% height=100%>
 
@@ -122,7 +122,7 @@ QA Data ready to be utilized in Google Looker Studio.
 
 
 **Google Sheets row limit and filter functions:**  
-> Since the app uses filter functions and Google Sheets does not support delegation, only the first 2000 rows of data can be used for storage. Once this limit is reached, a new worksheet must be added to the file and connections made within the app to continue recording data on the new sheet. This means that users should monitor the amount of data being entered to ensure that the 2000 row limit is not exceeded, and take action to add new worksheets as needed to continue recording data.
+> Since the app uses filter functions and Google Sheets does not support delegation, only the first 2000 rows of data can be used for storage. Once this limit is reached, a new worksheet must be added to the file and connections made within the app to continue recording data on the new sheet. This means that users should monitor the amount of data being entered to ensure that the 2000 row limit is not exceeded, and take action to add new worksheets as needed to continue recording data. Quality data however does not have the 2000 row limitation since we are not filtering that through the app.
 
 
 **Google Looker Studio connections:** 
