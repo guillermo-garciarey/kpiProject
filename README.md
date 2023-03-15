@@ -7,7 +7,7 @@
 
   </br>
 
-
+<strong>
 
   - [1. Tools](#1-tools)
   - [2. Project Scope](#2-project-scope)
@@ -20,7 +20,7 @@
   - [5. Data](#5-data)
   - [6. Limitations](#6-limitations)
 
-
+</strong>
 
 </br> 
 
