@@ -34,7 +34,7 @@
 ## 1. Tools 
 </br>
 
- <img src="https://user-images.githubusercontent.com/125451487/224790634-be0d6f82-232d-42b5-bf6e-e8b7c997cd4f.png" width=50% height=50%>
+ 
  
   **SQL   |   Google Looker Studio   |   Microsoft Power Apps.**  
 
